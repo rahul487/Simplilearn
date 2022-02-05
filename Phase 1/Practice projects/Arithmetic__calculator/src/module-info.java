@@ -1,0 +1,2 @@
+module Arithmetic__calculator {
+}
